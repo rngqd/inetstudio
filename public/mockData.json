@@ -1,0 +1,59 @@
+{
+  "filters": {
+    "cities": [
+      "Russia",
+      "USA"
+    ],
+    "scores": [
+      "> 20",
+      "< 10"
+    ]
+  },
+  "users": [
+    {
+      "id": 1,
+      "avatar": "https://cdn.vuetifyjs.com/images/lists/1.jpg",
+      "title": "Brunch this weekend",
+      "subtitle": "<span style=\"font-weight: bold\">Ali Connors</span> &mdash; I'll be in your neighborhood doing errands this weekend. Do you want to hang out?",
+      "city": "Russia",
+      "score": 23,
+      "address": "Russia, Moscow, 1st"
+    },
+    {
+      "id": 2,
+      "avatar": "https://cdn.vuetifyjs.com/images/lists/2.jpg",
+      "title": "Summer BBQ <span style=\"font-weight: bold\">4</span>",
+      "subtitle": "<span style=\"font-weight: bold\">to Alex, Scott, Jennifer</span> &mdash; Wish I could come, but I'm out of town this weekend.",
+      "city": "Russia",
+      "score": 99,
+      "address": "Russia, Moscow, Krasnaya Ploshchad"
+    },
+    {
+      "id": 3,
+      "avatar": "https://cdn.vuetifyjs.com/images/lists/3.jpg",
+      "title": "Oui oui",
+      "subtitle": "<span style=\"font-weight: bold\">Sandra Adams</span> &mdash; Do you have Paris recommendations? Have you ever been?",
+      "city": "USA",
+      "score": 3,
+      "address": "USA, New York, New York City"
+    },
+    {
+      "id": 4,
+      "avatar": "https://cdn.vuetifyjs.com/images/lists/4.jpg",
+      "title": "Birthday gift",
+      "subtitle": "<span  style=\"font-weight: bold\">Trevor Hansen</span> &mdash; Have any ideas about what we should get Heidi for her birthday?",
+      "city": "USA",
+      "score": 15,
+      "address": "USA, Colorado, Denver"
+    },
+    {
+      "id": 5,
+      "avatar": "https://cdn.vuetifyjs.com/images/lists/5.jpg",
+      "title": "Recipe to try",
+      "subtitle": "<span style=\"font-weight: bold\">Britta Holt</span> &mdash; We should eat this: Grate, Squash, Corn, and tomatillo Tacos.",
+      "city": "USA",
+      "score": 10,
+      "address": "USA, Arkansas, Little Rock"
+    }
+  ]
+}
